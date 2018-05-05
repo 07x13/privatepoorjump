@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\! караман 8-а\sfml test1\poorjump\poorjump\main.cpp(57): warning C4305: аргумент: усечение из "double" к "float"
+d:\! караман 8-а\sfml test1\poorjump\poorjump\main.cpp(63): warning C4305: аргумент: усечение из "double" к "float"
+d:\! караман 8-а\sfml test1\poorjump\poorjump\main.cpp(70): warning C4305: аргумент: усечение из "double" к "float"
+d:\! караман 8-а\sfml test1\poorjump\poorjump\main.cpp(74): warning C4305: аргумент: усечение из "double" к "float"
+  PoorJump.vcxproj -> D:\! Караман 8-А\SFML test1\PoorJump\x64\Debug\PoorJump.exe
+  PoorJump.vcxproj -> D:\! Караман 8-А\SFML test1\PoorJump\x64\Debug\PoorJump.pdb (Partial PDB)
